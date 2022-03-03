@@ -51,15 +51,9 @@ height="40"></img></a>&nbsp;&nbsp;
 
 + OpenCV  <a href="https://opencv.org/"><img src="assets/opencv.png" width="30"></img></a>&nbsp;&nbsp;
 
-+ Flutter  <a href="https://flutter.dev/"><img src="assets/flutter.png" width="40"></img></a>&nbsp;&nbsp;
-
 + React  <a href="https://reactjs.org/"><img src="assets/react.png" width="40"></img></a>&nbsp;&nbsp;
 
-+ Dart  <a href="https://dart.dev/"><img src="assets/dart.png" width="40"></img></a>&nbsp;&nbsp;
-
-+ Tensorflow  <a href="https://www.tensorflow.org/"><img src="assets/tensorflow.png" width="40"></img></a>&nbsp;&nbsp;
-
-+ Azure Face API <a href="https://azure.microsoft.com/en-in/services/cognitive-services/face/"><img src="assets/faceapi.png" width="40"></img></a>&nbsp;&nbsp;
++ Mediapipe  <a href="https://dart.dev/"><img src="assets/mediapipe.png" width="40"></img></a>&nbsp;&nbsp;
 
 
 <br>
