@@ -27,7 +27,7 @@ We at Biomechanic Corp. aimed to create a model which deals with Ergonomic asses
 <br>
 
 ## Novelty of our project
-Our project is a practical representation of Computer Vision in a real-life problem,it makes a starking attempt to 
+Our project is a practical representation of Computer Vision in a real-life problem, it makes a starking attempt to 
 help the companies and individuals in ergonomics and personal safety.
 I
 
@@ -89,6 +89,4 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 <br>
 
 ## Contributors 
-* [Omprasad Sadavarte](https://github.com/OmSadavarte)
-* [Krish Katyal](https://github.com/krishkatyal)
-* [Divyanshu Yadav](https://github.com/divyanshu1810/)
+[Omprasad Sadavarte](https://github.com/OmSadavarte) | [Krish Katyal](https://github.com/krishkatyal) | [Divyanshu Yadav](https://github.com/divyanshu1810/)
