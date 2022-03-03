@@ -79,10 +79,10 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 ## 🚀 Future Scope
 - Integration with Smart Camera and iot.
 - Improved Model accuracy.
-- integration with open posture model by CMU.
+- Integration with open posture model by CMU.
 - Email based notifying system to notify the employee about his/her hazardous Muscoskeletal posture.
 - Backend data to scripted physio assesment sheet.
-- integrable web tool dev with existing web-app.
+- Integrable web tool dev with existing web-app.
 
 <br>
 <br>
