@@ -29,7 +29,6 @@ We at Biomechanic Corp. aimed to create a model which deals with Ergonomic asses
 ## Novelty of our project
 Our project is a practical representation of Computer Vision in a real-life problem, it makes a starking attempt to 
 help the companies and individuals in ergonomics and personal safety.
-I
 
 <br>
 <br>
