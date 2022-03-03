@@ -13,32 +13,26 @@
 
 ## About The Project 
 During the dire times of a Covid Epidemic,biometric logging has proven to be cumbersome and fatal.
-We at StarX company have aimed to create a platform making use of Ai,
-Computer Vision and ML to develop Cyclops - a model which provides
-real-time surveillance and intruder detection, aligning with a real-time attendance tracker made with
-state-of-the art azure Face Api.
-Security is one of the most key concern of people in current world. 
-Advanced surveillance systems are now being used widely for detecting suspicious act in real time.
-We provide our services in the form of Web as well as App, hence information is now handy and readily available.
+We at BiomechanicsAi have aimed to create a platform making use of Ai,
+Computer Vision and ML to develop Ergonomics assesment system with posture detection - a model which provides
 <br>
 <br>
 
 
 <!-- ABOUT THE PROJECT -->
 ## Objective
-- Create awarness of Ai/ML in the Field of Security.
-- Improving the productivity of employees by keeping a track of their general activities.
-- Store live activity of individuals in the company vicinity.
+- Create awarness of Ai/ML in the Field of Physiology and MSD healthcare.
+- Improving the quality of health of employees by keeping a track of their neck positioning and body stance(standing+sitting).
+- Store and display their REBA & RULA assestment scores real-time.
 
 <br>
 <br>
 
 ## Novelty of our project
 Our project is a practical representation of Computer Vision in a real-life problem,it makes a starking attempt to 
-help the companies and individuals in security and personal safety.
-Face recognition is a constantly evolving field of study.Making use of azure Face api we deliver live survelliance and 
-storing of images on azure cloud.
-We also provide you with a web interface with backend support and working App developed with flutter.
+help the companies and individuals in ergonomics and personal safety.
+We also provide you with a web interface with backend support.
+
 <br>
 <br>
 
