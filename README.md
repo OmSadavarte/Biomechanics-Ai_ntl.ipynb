@@ -12,9 +12,7 @@
 
 
 ## About The Project 
-During the dire times of a Covid Epidemic,biometric logging has proven to be cumbersome and fatal.
-We at BiomechanicsAi have aimed to create a platform making use of Ai,
-Computer Vision and ML to develop Ergonomics assesment system with posture detection - a model which provides
+We at Biomechanic Corp. aimed to create a model which deals with Ergonomic assessment using Pose Assessment.
 <br>
 <br>
 
@@ -31,7 +29,7 @@ Computer Vision and ML to develop Ergonomics assesment system with posture detec
 ## Novelty of our project
 Our project is a practical representation of Computer Vision in a real-life problem,it makes a starking attempt to 
 help the companies and individuals in ergonomics and personal safety.
-We also provide you with a web interface with backend support.
+I
 
 <br>
 <br>
@@ -63,7 +61,7 @@ height="40"></img></a>&nbsp;&nbsp;
 <br>
 
 ## 𝌭 Model & Images 
-Tkinter Gui image feeding --> Pose coordinates --> Angle Calculation --> RULA/REBA algorithm -->Assesment score & Table appending
+Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorithm -->Assesment score & Table appending
 
 <p float="left">
   <img src="assets/The RULA assessment method.png" width="500" height=" 500"/>
@@ -81,12 +79,12 @@ Tkinter Gui image feeding --> Pose coordinates --> Angle Calculation --> RULA/RE
 
 ## 🚀 Future Scope
 - Integration with Smart Camera and iot.
-- Real-Time Geolocation Support.
-- Added User Authority and User Authentication.
-- Improved model accuracy alng with mask-wear detection and logging.
-- Successive support in Low-light conditions with the help of remarkable DL libs.
-- Attendance System.
-- Timesheet management to easily calculate hours and have all the data about employee work
+- Improved Model accuracy.
+- integration with open posture model by CMU.
+- Email based notifying system to notify the employee about his/her hazardous Muscoskeletal posture.
+- Backend data to scripted physio assesment sheet.
+- integrable web tool dev with existing web-app.
+
 <br>
 <br>
 
