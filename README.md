@@ -67,7 +67,6 @@ Tkinter Gui image feeding --> Pose coordinates --> Angle Calculation --> RULA/RE
 
 <img alt="" src="assets/The RULA assessment method.png" height=" 300" width ="600" />
 <img alt="" src="assets/Screenshot 2022-03-02 at 3.57.58 PM.png" height=" 300" width ="600" />
-<img alt="" src="assets/Screenshot 2022-03-02 at 3.57.58 PM.png" height=" 300" width ="600" />
 <img alt="" src="assets/Screenshot 2022-03-03 at 3.14.35 PM.png" height=" 300" width ="600" />
 <img alt="" src="assets/Screenshot 2022-03-02 at 7.38.12 PM.png" height=" 300" width ="600" />
 <br>
