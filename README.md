@@ -78,7 +78,6 @@ height="40"></img></a>&nbsp;&nbsp;
 <br>
 
 ## Contributors 
-* [Abhinav Maharana](https://github.com/abhinavmaharana/)
-* [Aritra Dutta](https://github.com/aritra1804)
 * [Omprasad Sadavarte](https://github.com/OmSadavarte)
-* [MD Farhan](https://github.com/farhan121212)
+* [Krish Katyal](https://github.com/krishkatyal)
+* [Divyanshu Yadav](https://github.com/divyanshu1810/)
