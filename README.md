@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img alt="" src="assets/Screenshot 2022-01-25 at 5.41.19 PM.png" height=" x    "  />
+  <img alt="" src="assets/biomechanics.png" height=" x    "  />
   <p align="center">  
   </p>
   
