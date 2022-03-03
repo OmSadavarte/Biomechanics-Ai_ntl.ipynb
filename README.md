@@ -53,8 +53,19 @@ height="40"></img></a>&nbsp;&nbsp;
 <br>
 <br>
 
+## 📝 Research paper & References
+* [Rapid Entire Body Assesment](https://www.researchgate.net/publication/12603778_Rapid_entire_body_assessment_REBA)
+* [Posture Thesis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi3_fWUyKn2AhWJsVYBHRp4DWkQFnoECAMQAQ&url=https%3A%2F%2Fwww.iosrjournals.org%2Fiosr-jspe%2Fpapers%2FVol-5Issue5%2FVersion-1%2FB05050815.pdf&usg=AOvVaw18iFBmKjpRArSuNyW56IcQ)
+* [Rapid Upper Limb Assesment](http://ftp.demec.ufpr.br/disciplinas/TM802/RULA_original%201993.pdf)
+* [The development of fully automated RULA/REBA  assessment system based on Computer Vision](https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=9613&context=etd)
 
-## Future Scope
+<br>
+<br>
+
+## Images
+
+
+## 🚀 Future Scope
 - Integration with Smart Camera and iot.
 - Real-Time Geolocation Support.
 - Added User Authority and User Authentication.
