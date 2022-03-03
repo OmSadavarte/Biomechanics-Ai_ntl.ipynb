@@ -65,10 +65,17 @@ height="40"></img></a>&nbsp;&nbsp;
 ## 𝌭 Model & Images 
 Tkinter Gui image feeding --> Pose coordinates --> Angle Calculation --> RULA/REBA algorithm -->Assesment score & Table appending
 
-<img alt="" src="assets/The RULA assessment method.png" height=" 300" width ="600" />
-<img alt="" src="assets/Screenshot 2022-03-02 at 3.57.58 PM.png" height=" 300" width ="600" />
-<img alt="" src="assets/Screenshot 2022-03-03 at 3.14.35 PM.png" height=" 300" width ="600" />
-<img alt="" src="assets/Screenshot 2022-03-02 at 7.38.12 PM.png" height=" 300" width ="600" />
+<p float="left">
+  <img src="assets/The RULA assessment method.png" width="500" height=" 500"/>
+  <img src="assets/Screenshot 2022-03-02 at 3.57.58 PM.png" width="500" height=" 500" /> 
+  
+</p>
+
+<p float="left">
+  <img src="assets/Screenshot 2022-03-03 at 3.14.35 PM.png" height=" 500" width="500">
+  <img src="assets/Screenshot 2022-03-02 at 7.38.12 PM.png" width="500" height=" 500" /> 
+  
+</p>
 <br>
 <br>
 
