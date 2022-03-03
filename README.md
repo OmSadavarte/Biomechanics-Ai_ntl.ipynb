@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img alt="" src="assets/biomechanics.png" height=" x    "  />
+  <img alt="" src="assets/Biomechani.png" height=" x    "  />
   <p align="center">  
   </p>
   
