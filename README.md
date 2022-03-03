@@ -62,8 +62,16 @@ height="40"></img></a>&nbsp;&nbsp;
 <br>
 <br>
 
-## Images
-
+## 𝌭 Model & Images 
+Tkinter Gui image feeding --> Pose coordinates --> Angle Calculation --> RULA/REBA algorithm -->Assesment score & Table appending
+<br />
+<div align="left">
+  <img alt="" src="assets/Biomechani.png" height=" x    "  />
+  <p align="left">  
+  </p>
+  
+</div>
+<br>
 
 ## 🚀 Future Scope
 - Integration with Smart Camera and iot.
