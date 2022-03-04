@@ -12,8 +12,10 @@
 <p align="center"><a href="https://www.python.org/" target="_blank"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" height = "28.2" width= "160"alt="python version" /></a>&nbsp;<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="go cover" /></a>&nbsp;<a href="https://github.com/OmSadavarte/Biomechanics-Ai_ntl.ipynb" target="_blank"><img src="https://img.shields.io/badge/By-ntl.ipynb-red?style=for-the-badge" alt="go report" /></a>&nbsp;<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>&nbsp;<img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" alt="license" />&nbsp;</p>
 
 
-
-## About The Project 
+<div align="center"> 
+<img src="https://img.shields.io/badge/About_Our_Project-blue?style=for-the-badge" /><br>
+</div>
+<br>
 We at Biomechanic Corp. aimed to create a model which deals with Ergonomic assessment using Pose Assessment.We've developed a contemporary model of pose analysing 
 using RULA(Rapid Upper Limb Assessment). In the modern IT world back & neck related medical hazards have progressed exponentially, which can be majorly cured by keeping tabs on your stance. 
 <br>
@@ -21,23 +23,31 @@ using RULA(Rapid Upper Limb Assessment). In the modern IT world back & neck rela
 
 
 <!-- ABOUT THE PROJECT -->
-## Objective
+<div align="center"> 
+<img src="https://img.shields.io/badge/Objective-blue?style=for-the-badge" /><br>
+</div>
+<br>
 - Create awarness of Ai/ML in the Field of Physiology and MSD healthcare.
 - Improving the quality of health of employees by keeping a track of their neck positioning and body stance(standing+sitting).
 - Store and display their REBA & RULA assestment scores real-time.
 
 <br>
 <br>
-
-## Novelty of our project
+<div align="center"> 
+<img src="https://img.shields.io/badge/Novelty_of_our_project-blue?style=for-the-badge" /><br>
+</div>
+<br>
 Our project is a practical representation of Computer Vision in a real-life problem, it makes a starking attempt to 
 help the companies and individuals in ergonomics and personal safety.
 
 <br>
 <br>
 
-
-## 👩🏻‍💻Tech Stack
+<div align="center"> 
+<img src="https://img.shields.io/badge/Tech%20Stack%20-chocolate?" height="27"/>
+ </div>
+ <br>
+ 
  + Python <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 alt="python"
@@ -53,8 +63,10 @@ height="40"></img></a>&nbsp;&nbsp;
 
 <br>
 <br>
-
-## 📝 Research paper & References
+<div align="center"> 
+<img src="https://img.shields.io/badge/Research Thesis-blue?style=for-the-badge" /><br>
+</div>
+<br>
 * [Rapid Entire Body Assesment](https://www.researchgate.net/publication/12603778_Rapid_entire_body_assessment_REBA)
 * [Posture Thesis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi3_fWUyKn2AhWJsVYBHRp4DWkQFnoECAMQAQ&url=https%3A%2F%2Fwww.iosrjournals.org%2Fiosr-jspe%2Fpapers%2FVol-5Issue5%2FVersion-1%2FB05050815.pdf&usg=AOvVaw18iFBmKjpRArSuNyW56IcQ)
 * [Rapid Upper Limb Assesment](http://ftp.demec.ufpr.br/disciplinas/TM802/RULA_original%201993.pdf)
@@ -63,7 +75,11 @@ height="40"></img></a>&nbsp;&nbsp;
 <br>
 <br>
 
-## 𝌭 Model & Images 
+<br>
+<div align="center"> 
+<img src="https://img.shields.io/badge/Model_&_Images-blue?style=for-the-badge" /><br>
+</div>
+<br>
 Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorithm -->Assesment score & Table appending
 
 <p float="left">
@@ -80,7 +96,9 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 <br>
 <br>
 
-## Set-up Locally
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Setting%20up%20locally-purple?logo=visual-studio-code&style=for-the-badge" height="28"/> 
+</div><br>
    ```
    git clone https://github.com/<your-username>/Biomechanics-Ai_ntl.ipynb
    ```   
@@ -96,7 +114,11 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
    ```
    python3 app.py
    ```
-## 🚀 Future Scope
+   
+<div align="center"> 
+<img src="https://img.shields.io/badge/Future_scopes-blue?logo=rocket&style=for-the-badge" /><br>
+</div>
+<br>
 - Integration with Smart Camera and iot.
 - Improved Model accuracy.
 - Integration with open posture model by CMU.
@@ -108,7 +130,7 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 <br>
 
  <div align="center"> 
-  <img src="https://img.shields.io/badge/Contributors-black?logo=Github&style=for-the-badge" height="40"/> 
+  <img src="https://img.shields.io/badge/Contributors-black?logo=Github&style=for-the-badge" height="28"/> 
 </div>
   <br>
 
@@ -170,7 +192,7 @@ Omprasad Sadavarte
  <div align="center">
  <p>
  <br>
-   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" height="40"/><br>
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" height="28"/><br>
    <br><strong>Biomechanics-Ai_ntl.ipynb</strong> is under MIT License
   <p>
  </div>
