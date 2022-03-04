@@ -124,10 +124,10 @@ height="40"></img></a>&nbsp;&nbsp;
 <div align="left"> 
 <img src="https://img.shields.io/badge/Future_Scopes-brown?style=for-the-badge" /><br>
 
-- Integration with Smart Camera and iot.
+- Integration with smart camera and iot.
+- Creating an ecosystem of devices which can monitor and provide real time alerts about their hazardous muscoskeletal posture.
 - Improved Model accuracy.
 - Integration with open posture model by CMU.
-- Email based notifying system to notify the employee about his/her hazardous Muscoskeletal posture.
 - Backend data to scripted physio assesment sheet.
 - Integrable web tool dev with existing web-app.
 
