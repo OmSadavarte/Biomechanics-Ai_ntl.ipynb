@@ -13,7 +13,7 @@
 <hr>
 
 <div align="left"> 
-<img src="https://img.shields.io/badge/About_Our_Project-red?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/About_Our_Project-red?logo=jira&style=for-the-badge" /><br>
 </div>
 <br>
 <p align="left">We at Biomechanic Corp. aimed to create a model which deals with Ergonomic assessment using Pose Assessment.We've developed a contemporary model of pose analysing 
@@ -25,7 +25,7 @@ using RULA(Rapid Upper Limb Assessment). In the modern IT world back & neck rela
 
 <!-- ABOUT THE PROJECT -->
 <div align="left"> 
-<img src="https://img.shields.io/badge/Objective-blue?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/Objective-blue?logo=Pinboard&style=for-the-badge" /><br>
 
 
 - Create awarness of Ai/ML in the Field of Physiology and MSD healthcare.
@@ -36,7 +36,7 @@ using RULA(Rapid Upper Limb Assessment). In the modern IT world back & neck rela
 <br>
 
 <div align="left"> 
-<img src="https://img.shields.io/badge/Novelty_of_our_project-yellow?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/Novelty_of_our_project-yellow?logo=eclipse&style=for-the-badge" /><br>
 </div>
 <br>
 <p align="left">Our project is a practical representation of Computer Vision in a real-life problem, it makes a starking attempt to 
@@ -46,7 +46,7 @@ help the companies and individuals in ergonomics and personal safety.</P>
 <br>
 
 <div align="left"> 
-<img src="https://img.shields.io/badge/Tech_Stack-pink?style=for-the-badge" height="27"/>
+<img src="https://img.shields.io/badge/Tech_Stack-pink?logo=Windows%20Terminal&style=for-the-badge" height="27"/>
  </div>
  <br>
  
@@ -66,7 +66,7 @@ height="40"></img></a>&nbsp;&nbsp;
 <br>
 <br>
 <div align="left"> 
-<img src="https://img.shields.io/badge/Research Thesis-green?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/Research Thesis-green?&style=for-the-badge" /><br>
 
 
 * [Rapid Entire Body Assesment](https://www.researchgate.net/publication/12603778_Rapid_entire_body_assessment_REBA)
