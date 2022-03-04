@@ -85,13 +85,13 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 
 <p float="left">
   <img src="assets/The RULA assessment method.png" width="500" height=" 500"/>
-  <img src="assets/Screenshot 2022-03-02 at 3.57.58 PM.png" width="500" height=" 500" /> 
+  <img src="https://i.ibb.co/K9DCFKH/Screenshot-2022-03-04-at-3-36-23-PM.png" width="500" height=" 500" /> 
   
 </p>
 
 <p float="left">
   <img src="assets/Screenshot 2022-03-03 at 3.14.35 PM.png" height=" 500" width="500">
-  <img src="assets/Screenshot 2022-03-02 at 7.38.12 PM.png" width="500" height=" 500" /> 
+  <img src="https://i.ibb.co/7GtYmQw/Screenshot-2022-03-04-at-3-38-05-PM.png" width="500" height=" 500" /> 
   
 </p>
 <br>
