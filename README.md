@@ -12,39 +12,41 @@
 <p align="center"><a href="https://www.python.org/" target="_blank"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" height = "28.2" width= "160"alt="python version" /></a>&nbsp;<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="go cover" /></a>&nbsp;<a href="https://github.com/OmSadavarte/Biomechanics-Ai_ntl.ipynb" target="_blank"><img src="https://img.shields.io/badge/By-ntl.ipynb-red?style=for-the-badge" alt="go report" /></a>&nbsp;<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>&nbsp;<img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" alt="license" />&nbsp;</p>
 
 
-<div align="center"> 
+<div align="left"> 
 <img src="https://img.shields.io/badge/About_Our_Project-blue?style=for-the-badge" /><br>
 </div>
 <br>
-We at Biomechanic Corp. aimed to create a model which deals with Ergonomic assessment using Pose Assessment.We've developed a contemporary model of pose analysing 
-using RULA(Rapid Upper Limb Assessment). In the modern IT world back & neck related medical hazards have progressed exponentially, which can be majorly cured by keeping tabs on your stance. 
+<p align="left">We at Biomechanic Corp. aimed to create a model which deals with Ergonomic assessment using Pose Assessment.We've developed a contemporary model of pose analysing 
+using RULA(Rapid Upper Limb Assessment). In the modern IT world back & neck related medical hazards have progressed exponentially, which can be majorly cured by keeping tabs on your stance.</p>
+</div>
 <br>
 <br>
 
 
 <!-- ABOUT THE PROJECT -->
-<div align="center"> 
+<div align="left"> 
 <img src="https://img.shields.io/badge/Objective-blue?style=for-the-badge" /><br>
-</div>
-<br>
+
+
 - Create awarness of Ai/ML in the Field of Physiology and MSD healthcare.
 - Improving the quality of health of employees by keeping a track of their neck positioning and body stance(standing+sitting).
 - Store and display their REBA & RULA assestment scores real-time.
 
 <br>
 <br>
-<div align="center"> 
+
+<div align="left"> 
 <img src="https://img.shields.io/badge/Novelty_of_our_project-blue?style=for-the-badge" /><br>
 </div>
 <br>
-Our project is a practical representation of Computer Vision in a real-life problem, it makes a starking attempt to 
-help the companies and individuals in ergonomics and personal safety.
+<p align="left">Our project is a practical representation of Computer Vision in a real-life problem, it makes a starking attempt to 
+help the companies and individuals in ergonomics and personal safety.</P>
 
 <br>
 <br>
 
-<div align="center"> 
-<img src="https://img.shields.io/badge/Tech%20Stack%20-chocolate?" height="27"/>
+<div align="left"> 
+<img src="https://img.shields.io/badge/Tech_Stack-blue?style=for-the-badge" height="27"/>
  </div>
  <br>
  
@@ -63,20 +65,19 @@ height="40"></img></a>&nbsp;&nbsp;
 
 <br>
 <br>
-<div align="center"> 
+<div align="left"> 
 <img src="https://img.shields.io/badge/Research Thesis-blue?style=for-the-badge" /><br>
-</div>
-<br>
+
+
 * [Rapid Entire Body Assesment](https://www.researchgate.net/publication/12603778_Rapid_entire_body_assessment_REBA)
 * [Posture Thesis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi3_fWUyKn2AhWJsVYBHRp4DWkQFnoECAMQAQ&url=https%3A%2F%2Fwww.iosrjournals.org%2Fiosr-jspe%2Fpapers%2FVol-5Issue5%2FVersion-1%2FB05050815.pdf&usg=AOvVaw18iFBmKjpRArSuNyW56IcQ)
 * [Rapid Upper Limb Assesment](http://ftp.demec.ufpr.br/disciplinas/TM802/RULA_original%201993.pdf)
 * [The development of fully automated RULA/REBA  assessment system based on Computer Vision](https://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=9613&context=etd)
 
 <br>
-<br>
 
 <br>
-<div align="center"> 
+<div align="left"> 
 <img src="https://img.shields.io/badge/Model_&_Images-blue?style=for-the-badge" /><br>
 </div>
 <br>
@@ -96,9 +97,10 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 <br>
 <br>
 
-<div align="center"> 
-  <img src="https://img.shields.io/badge/Setting%20up%20locally-purple?logo=visual-studio-code&style=for-the-badge" height="28"/> 
+<div align="left"> 
+  <img src="https://img.shields.io/badge/Setting%20up%20locally-blue?logo=visual-studio-code&style=for-the-badge" height="28"/> 
 </div><br>
+  
    ```
    git clone https://github.com/<your-username>/Biomechanics-Ai_ntl.ipynb
    ```   
@@ -114,11 +116,12 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
    ```
    python3 app.py
    ```
-   
-<div align="center"> 
-<img src="https://img.shields.io/badge/Future_scopes-blue?logo=rocket&style=for-the-badge" /><br>
-</div>
 <br>
+<br>
+ 
+<div align="left"> 
+<img src="https://img.shields.io/badge/Future_Scopes-blue?style=for-the-badge" /><br>
+
 - Integration with Smart Camera and iot.
 - Improved Model accuracy.
 - Integration with open posture model by CMU.
@@ -126,17 +129,18 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 - Backend data to scripted physio assesment sheet.
 - Integrable web tool dev with existing web-app.
 
+
 <br>
 <br>
 
- <div align="center"> 
+ <div align="left"> 
   <img src="https://img.shields.io/badge/Contributors-black?logo=Github&style=for-the-badge" height="28"/> 
 </div>
   <br>
 
-<div align="center"> 
+<div align="left"> 
   <table>
-<tr align="center">
+<tr align="left">
  <td>
 
 Divyanshu Yadav
@@ -146,7 +150,7 @@ Divyanshu Yadav
 </p>
 <p align="center">
 <a href = "https://github.com/divyanshu1810"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/indira-dutta-775445197/">
+<a href = "https://www.linkedin.com/in/divyanshu-yadav-b32a76220/">
 <img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
 </a>
 </p>
@@ -173,7 +177,7 @@ Krish Katyal
 Omprasad Sadavarte
 
 <p align="center">
-<img src = "https://avatars.githubusercontent.com/u/89592570?s=400&u=7f0dd7278ed4d99cda48cbaae69f048e1375cfbb&v=4"  height="120" alt="Omprasad Sadavarte">
+<img src = "https://i.ibb.co/FzZWR4z/IMG-6402.jpg"  height="120" alt="Omprasad Sadavarte">
 </p>
 <p align="center">
 <a href = "https://github.com/OmSadavarte"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
