@@ -1,0 +1,8 @@
+OpenCV 4.5.4
+mediapipe 0.8.9.1
+numpy 1.22.2
+pandas 1.4.1
+tk-tools 0.14.0
+PyAutoGUI 0.9.53
+mime 0.1.0
+secure-smtplib 0.1.1
