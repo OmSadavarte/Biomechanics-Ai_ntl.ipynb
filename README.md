@@ -16,9 +16,10 @@
 <img src="https://img.shields.io/badge/About_Our_Project-red?logo=jira&style=for-the-badge" /><br>
 </div>
 <br>
-<p align="left">We at Biomechanic Corp. aimed to create a model which deals with Ergonomic assessment using Pose Assessment.We've developed a contemporary model of pose analysing 
-using RULA(Rapid Upper Limb Assessment). In the modern IT world back & neck related medical hazards have progressed exponentially, which can be majorly cured by keeping tabs on your stance.</p>
+We at Biomechanics-Ai aimed to create a model which deals with Ergonomic assessment using Pose Estimation .We've developed a contemporary model of pose analysing using RULA(Rapid Upper Limb Assessment) and Rapid Office strain Assessment. In the modern IT world muscoskeletal disorders and physio-medical hazards have progressed exponentially, which can be majorly cured by keeping tabs on your stance.<br>
 </div>
+
+
 <br>
 <br>
 
