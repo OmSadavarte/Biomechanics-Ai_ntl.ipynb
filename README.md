@@ -12,7 +12,8 @@
 
 
 ## About The Project 
-We at Biomechanic Corp. aimed to create a model which deals with Ergonomic assessment using Pose Assessment.
+We at Biomechanic Corp. aimed to create a model which deals with Ergonomic assessment using Pose Assessment.We've developed a contemporary model of pose analysing 
+using RULA(Rapid Upper Limb Assessment). In the modern IT world back & neck related medical hazards have progressed exponentially, which can be majorly cured by keeping tabs on your stance. 
 <br>
 <br>
 
