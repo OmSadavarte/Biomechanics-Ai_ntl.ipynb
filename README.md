@@ -34,6 +34,7 @@ help the companies and individuals in ergonomics and personal safety.
 <br>
 <br>
 
+
 ## 👩🏻‍💻Tech Stack
  + Python <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -77,6 +78,22 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 <br>
 <br>
 
+## Set-up Locally
+   ```
+   git clone https://github.com/<your-username>/Biomechanics-Ai_ntl.ipynb
+   ```   
+
+   ```
+   cd Biomechanics-Ai_ntl.ipynb
+   ```
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+   ```
+   python3 app.py
+   ```
 ## 🚀 Future Scope
 - Integration with Smart Camera and iot.
 - Improved Model accuracy.
@@ -147,7 +164,15 @@ Omprasad Sadavarte
 </tr>
 </div>
   <br>
-	
+
+ <div align="center">
+ <p>
+ <br>
+   <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" height="40"/><br>
+   <br><strong>Biomechanics-Ai_ntl.ipynb</strong> is under MIT License
+  <p>
+ </div>
+ <br>
   
   
  <!-- END -->
