@@ -9,6 +9,8 @@
   
 </div>
 <br>
+<p align="center"><a href="https://www.python.org/" target="_blank"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" height = "28.2" width= "160"alt="python version" /></a>&nbsp;<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="go cover" /></a>&nbsp;<a href="https://github.com/OmSadavarte/Biomechanics-Ai_ntl.ipynb" target="_blank"><img src="https://img.shields.io/badge/By-ntl.ipynb-red?style=for-the-badge" alt="go report" /></a>&nbsp;<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>&nbsp;<img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" alt="license" />&nbsp;</p>
+
 
 
 ## About The Project 
