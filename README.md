@@ -88,5 +88,66 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 <br>
 <br>
 
-## Contributors 
-[Omprasad Sadavarte](https://github.com/OmSadavarte) | [Krish Katyal](https://github.com/krishkatyal) | [Divyanshu Yadav](https://github.com/divyanshu1810/)
+ <div align="center"> 
+  <img src="https://img.shields.io/badge/Contributors-black?logo=Github&style=for-the-badge" height="40"/> 
+</div>
+  <br>
+
+<div align="center"> 
+  <table>
+<tr align="center">
+ <td>
+
+Divyanshu Yadav
+
+<p align="center">
+<img src = "https://biomechanics-ai.netlify.app/static/media/div.84734c08586723935f13.jpg"  height="120" alt="Indira">
+</p>
+<p align="center">
+<a href = "https://github.com/divyanshu1810"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/indira-dutta-775445197/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+ <strong>Web Developer<strong>
+</td>
+<td>
+
+Krish Katyal 
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/krishkatyal"  height="120" alt="Srijarko">
+</p>
+<p align="center">
+<a href = "https://github.com/krishkatyal"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/krishkatyal/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+    <strong>ML Developer<strong>
+</td>
+
+<td>
+  
+Omprasad Sadavarte
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/89592570?s=400&u=7f0dd7278ed4d99cda48cbaae69f048e1375cfbb&v=4"  height="120" alt="Omprasad Sadavarte">
+</p>
+<p align="center">
+<a href = "https://github.com/OmSadavarte"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/omprasad-sadavarte-3a0bbb211/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+  <strong>ML | Frontend<strong>
+</td>
+  
+  </table>
+</tr>
+</div>
+  <br>
+	
+  
+  
+ <!-- END -->
