@@ -10,10 +10,10 @@
 </div>
 <br>
 <p align="center"><a href="https://www.python.org/" target="_blank"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" height = "28.2" width= "160"alt="python version" /></a>&nbsp;<a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="go cover" /></a>&nbsp;<a href="https://github.com/OmSadavarte/Biomechanics-Ai_ntl.ipynb" target="_blank"><img src="https://img.shields.io/badge/By-ntl.ipynb-red?style=for-the-badge" alt="go report" /></a>&nbsp;<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>&nbsp;<img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" alt="license" />&nbsp;</p>
-
+<hr>
 
 <div align="left"> 
-<img src="https://img.shields.io/badge/About_Our_Project-blue?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/About_Our_Project-red?style=for-the-badge" /><br>
 </div>
 <br>
 <p align="left">We at Biomechanic Corp. aimed to create a model which deals with Ergonomic assessment using Pose Assessment.We've developed a contemporary model of pose analysing 
@@ -36,7 +36,7 @@ using RULA(Rapid Upper Limb Assessment). In the modern IT world back & neck rela
 <br>
 
 <div align="left"> 
-<img src="https://img.shields.io/badge/Novelty_of_our_project-blue?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/Novelty_of_our_project-yellow?style=for-the-badge" /><br>
 </div>
 <br>
 <p align="left">Our project is a practical representation of Computer Vision in a real-life problem, it makes a starking attempt to 
@@ -46,7 +46,7 @@ help the companies and individuals in ergonomics and personal safety.</P>
 <br>
 
 <div align="left"> 
-<img src="https://img.shields.io/badge/Tech_Stack-blue?style=for-the-badge" height="27"/>
+<img src="https://img.shields.io/badge/Tech_Stack-pink?style=for-the-badge" height="27"/>
  </div>
  <br>
  
@@ -66,7 +66,7 @@ height="40"></img></a>&nbsp;&nbsp;
 <br>
 <br>
 <div align="left"> 
-<img src="https://img.shields.io/badge/Research Thesis-blue?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/Research Thesis-green?style=for-the-badge" /><br>
 
 
 * [Rapid Entire Body Assesment](https://www.researchgate.net/publication/12603778_Rapid_entire_body_assessment_REBA)
@@ -78,7 +78,7 @@ height="40"></img></a>&nbsp;&nbsp;
 
 <br>
 <div align="left"> 
-<img src="https://img.shields.io/badge/Model_&_Images-blue?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/Model_&_Images-black?style=for-the-badge" /><br>
 </div>
 <br>
 Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorithm -->Assesment score & Table appending
@@ -98,7 +98,7 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 <br>
 
 <div align="left"> 
-  <img src="https://img.shields.io/badge/Setting%20up%20locally-blue?logo=visual-studio-code&style=for-the-badge" height="28"/> 
+  <img src="https://img.shields.io/badge/Setting%20up%20locally-purple?logo=visual-studio-code&style=for-the-badge" height="28"/> 
 </div><br>
   
    ```
@@ -120,7 +120,7 @@ Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorith
 <br>
  
 <div align="left"> 
-<img src="https://img.shields.io/badge/Future_Scopes-blue?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/Future_Scopes-brown?style=for-the-badge" /><br>
 
 - Integration with Smart Camera and iot.
 - Improved Model accuracy.
