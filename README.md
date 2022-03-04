@@ -81,7 +81,8 @@ height="40"></img></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Model_&_Images-black?style=for-the-badge" /><br>
 </div>
 <br>
-Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorithm -->Assesment score & Table appending
+<strong> Gui image feed --> Pose coordinates --> Angle Calculation --> RULA/REBA algorithm -->Assesment score & Table appending </strong><br>
+<br>
 
 <p float="left">
   <img src="assets/The RULA assessment method.png" width="500" height=" 500"/>
@@ -193,11 +194,11 @@ Omprasad Sadavarte
 </div>
   <br>
 
- <div align="center">
+ <div align="left">
  <p>
  <br>
    <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" height="28"/><br>
-   <br><strong>Biomechanics-Ai_ntl.ipynb</strong> is under MIT License
+   <br><strong>Biomechanics-Ai_ntl.ipynb</strong> is under MIT License, Please Read the license.
   <p>
  </div>
  <br>
