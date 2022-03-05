@@ -86,7 +86,7 @@ height="40"></img></a>&nbsp;&nbsp;
 <br>
 
 <p float="left">
-  <img src="assets/The RULA assessment method.png" width="500" height=" 500"/>
+  <img src="https://ergo-plus.com/wp-content/uploads/rapid-upper-limb-assessment-rula-1.png?x69419" width="800" height=" 800"/>
   <img src="https://i.ibb.co/K9DCFKH/Screenshot-2022-03-04-at-3-36-23-PM.png" width="500" height=" 500" /> 
   
 </p>
