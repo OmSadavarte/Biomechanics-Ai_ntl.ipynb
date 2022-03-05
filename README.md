@@ -29,9 +29,9 @@ We at Biomechanics-Ai aimed to create a model which deals with Ergonomic assessm
 <img src="https://img.shields.io/badge/Objective-blue?logo=Pinboard&style=for-the-badge" /><br>
 
 
-- Create awarness of Ai/ML in the Field of Physiology and MSD healthcare.
 - Improving the quality of health of employees by keeping a track of their neck positioning and body stance(standing+sitting).
 - Store and display their REBA & RULA assestment scores real-time.
+- Create awarness of Ai/ML in the Field of Physiology and MSD healthcare.
 
 <br>
 <br>
